@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(137, 234, 135);
+}
+.container{
+    margin-top: 200px;
+    background: white;
+    border-radius: 20px;
+}
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    display: block;
+    margin: 0 auto;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+}
+h4{
+    font-weight: italic;
+    text-align: center;
+}

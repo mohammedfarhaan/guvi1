@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(137, 234, 135);
+}
+.row{
+    background:white;
+    border-radius: 30px;
+}
+img{
+    margin-top: 200 px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0  auto;
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width:100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover
+{
+    background: white;
+    border: 2px solid;
+    color: black;
+}
